@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(56, 88, 167);
+  margin: 0px 0px
+}
+
+#titlebox {
+  background-color: rgb(135, 169, 255);
+  box-shadow: 0px 8px 8px 2px rgb(61, 96, 184);
+}
+
+#title0 {
+  color: white;
+
+  font-size: 40px;
+  font-family: Lucida, sans-serif;
+}
+
+#generalbox {
+  background-color: white;
+  width: 80%;
+  height: 85%;
+  margin: 100px 10% auto;
+  box-shadow: 8px 12px 8px 2px rgb(61, 96, 184);
+  display: flex;
+}
+
+#paragraph1 {
+  margin: 10px 25px;
+}
+
+.greylink {
+  color: rgb(227, 227, 227)
+}
+
+.text-ogblue {
+  text-decoration-color: : #3858a7;
+}
+
+.bg-custom {
+  background-color: rgb(73, 105, 184)
+}
+
+.flex-container {
+  display: flex;
+}
