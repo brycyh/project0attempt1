@@ -43,3 +43,16 @@ body {
 .flex-container {
   display: flex;
 }
+
+.center{
+  text-align:center
+}
+
+@media only screen and (max-width: 801px){
+  img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:75%;
+    }
+  }
