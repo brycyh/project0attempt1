@@ -1,0 +1,23 @@
+<!-media queries->
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+@media (min-width: 720px) {
+    img {
+      margin:20px 20px 20px;
+    }
+}
+
+@media (max-width: 719px) {
+      p{
+        color: green;
+        text-align: center;
+       }
+
+      img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+}
