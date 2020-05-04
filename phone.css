@@ -5,14 +5,25 @@
 
 @media (min-width: 720px) {
     img {
-      margin:20px 20px 20px;
+      display: block;
+      width:75%;
+      margin:20px 20px 20px 20px;
+      float: right;
+      width: 1080px;
+      height: 720px;
     }
+    p {
+      color: red;
+      text-align: center;
+      padding:5px
+     }
 }
 
 @media (max-width: 719px) {
       p{
-        color: green;
+        color: pink;
         text-align: center;
+        padding:5px
        }
 
       img{
