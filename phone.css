@@ -17,9 +17,8 @@
 
 @media screen and (max-width: 767px) {
       p{
-        color: pink;
         text-align: center;
-        padding:5px
+        padding:3px
        }
 
       img{
