@@ -19,7 +19,7 @@
      }
 }
 
-@media (max-width: 719px) {
+@media (max-width: 767px) {
       p{
         color: pink;
         text-align: center;
