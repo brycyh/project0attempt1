@@ -3,23 +3,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-@media (min-width: 720px) {
+@media screen and (max-width: 800px) {
     img {
       display: block;
       width:75%;
       margin:20px 20px 20px 20px;
       float: right;
-      width: 1080px;
-      height: 720px;
     }
-    p {
-      color: red;
-      text-align: center;
-      padding:5px
+     .img-margin20px {
+       margin:20px;
      }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
       p{
         color: pink;
         text-align: center;
