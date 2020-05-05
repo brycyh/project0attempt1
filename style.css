@@ -22,6 +22,7 @@ body {
   margin: 100px 10% auto;
   box-shadow: 8px 12px 8px 2px rgb(61, 96, 184);
   display: flex;
+  padding: 10px
 }
 
 #paragraph1 {
@@ -45,7 +46,6 @@ body {
 .center{
   text-align:center
 }
-.img-margin20px {
-  margin:20px;
-
+.img-margin-bot20px {
+  margin-bottom:20px;
 }
